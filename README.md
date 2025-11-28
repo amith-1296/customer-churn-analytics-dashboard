@@ -110,6 +110,7 @@ customer-churn-analytics-dashboard/
 ├── app.py                    # Main Streamlit application
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
+|── Customer churn.ipynb        # Original Jupyter notebook with EDA and analysis
 └── .streamlit/
     └── config.toml          # Streamlit configuration (optional)
 ```
@@ -122,6 +123,14 @@ customer-churn-analytics-dashboard/
 Simply visit: **https://customer-churn-analytics-dashboard-rmvbh6omhc8khgjjnmlqwu.streamlit.app/**
 
 ### Option 2: Run Locally
+
+### Option 3: View Original Jupyter Notebook
+
+View the original analysis with exploratory data analysis and initial findings:
+
+- Click on `Customer churn.ipynb` in the GitHub repository
+- GitHub will render the notebook directly in the browser
+- No installation required - just view and explore the analysis
 
 #### Prerequisites
 - Python 3.9 or higher
